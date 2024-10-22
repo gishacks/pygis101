@@ -124,6 +124,7 @@ celerybeat.pid
 
 # Environments
 pygis/
+genv/
 .env
 .venv
 env/
